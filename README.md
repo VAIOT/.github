@@ -31,11 +31,11 @@ VAIOT combines artificial intelligence and blockchain technology to revolutioniz
   </a>
   <a href="https://t.me/VAIOT_Community" style="text-decoration: none; display: inline-block; margin-right: 20px; vertical-align: middle;">
     <img width="36" src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram" style="vertical-align: middle;"/>
-    &nbsp;<span style="vertical-align: middle;">Telegram</span>
+    &nbsp;<span>Telegram</span>
   </a>
   <a href="https://www.youtube.com/channel/UCPGVxOCWjYAj_PNIVdXBVzA" style="text-decoration: none; display: inline-block; margin-right: 20px; vertical-align: middle;">
     <img width="36" src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" style="vertical-align: middle;"/>
-    &nbsp;<span style="vertical-align: middle;">YouTube</span>
+    &nbsp;<span >YouTube</span>
   </a>
 </p>
 
