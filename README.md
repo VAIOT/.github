@@ -20,7 +20,6 @@ VAIOT combines artificial intelligence and blockchain technology to revolutioniz
 ### Connect With Us
 
 </br>
-<p align="">
   <a href="https://vaiot.ai/en" style="text-decoration: none; display: inline-block; margin-right: 40px; vertical-align: middle; underline: none;">
     <img width="36" src="assets/website.svg" alt="Website" style="vertical-align: middle;"/>
   </a>
@@ -33,7 +32,6 @@ VAIOT combines artificial intelligence and blockchain technology to revolutioniz
   <a href="https://www.youtube.com/channel/UCPGVxOCWjYAj_PNIVdXBVzA" >
     <img width="36" src="assets/youtube.svg" alt="YouTube" style="vertical-align: middle;"/>
   </a>
-</p>
 
 </br>
 
