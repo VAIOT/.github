@@ -19,12 +19,10 @@ VAIOT combines artificial intelligence and blockchain technology to revolutioniz
 
 ### Connect With Us
 
-<p align="center">
-  <a href="https://vaiot.ai/en"><img width="36" src="assets/website.svg" alt="Website"/></a>
-  <a href="https://twitter.com/VAIOT_LTD"><img width="36" src="assets/twitter.svg" alt="Twitter"/></a>
-  <a href="https://t.me/VAIOT_Community"><img width="36" src="assets/telegram.svg" alt="Telegram"/></a>
-  <a href="https://www.youtube.com/channel/UCPGVxOCWjYAj_PNIVdXBVzA"><img width="36" src="assets/youtube.svg" alt="YouTube"/></a>
-</p>
+<a href="https://vaiot.ai/en"><img width="36" src="assets/website.svg" alt="Website"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/VAIOT_LTD"><img width="36" src="assets/twitter.svg" alt="Twitter"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://t.me/VAIOT_Community"><img width="36" src="assets/telegram.svg" alt="Telegram"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/channel/UCPGVxOCWjYAj_PNIVdXBVzA"><img width="36" src="assets/youtube.svg" alt="YouTube"/></a>
 
 ### Contributing
 
