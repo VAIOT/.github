@@ -11,21 +11,34 @@ VAIOT combines artificial intelligence and blockchain technology to revolutioniz
 
 ## Our Repositories
 
-[./vaiot-resources](#https://github.com/VAIOT/vaiot-resources) Your gateway to understanding VAIOT through whitepapers, audit reports, and compliance documents.
+[./vaiot-resources](https://github.com/VAIOT/vaiot-resources) Your gateway to understanding VAIOT through whitepapers, audit reports, and compliance documents.
 
-[./single-asset-staking](#https://github.com/VAIOT/single-asset-staking) Explore the smart contract that powers VAIOT's staking system.
+[./single-asset-staking](https://github.com/VAIOT/single-asset-staking) Explore the smart contract that powers VAIOT's staking system.
 
-[./payback-contract](#https://github.com/VAIOT/payback-contract) Discover our innovative payback system that rewards platform users.
+[./payback-contract](https://github.com/VAIOT/payback-contract) Discover our innovative payback system that rewards platform users.
 
 ### Connect With Us
 
-:blue_book: [Website](#https://vaiot.ai/en)
-
-:twitter: [Twitter](#https://twitter.com/VAIOT_LTD)
-
-:telegram: [Telegram](#https://t.me/VAIOT_Community)
-
-:youtube: [YouTube](#https://www.youtube.com/channel/UCPGVxOCWjYAj_PNIVdXBVzA)
+</br>
+<p align="center">
+  <a href="https://vaiot.ai/en" style="display: inline-block; margin-right: 20px;">
+    <img width="36" src="https://img.icons8.com/color/48/000000/domain--v1.png" alt="Website" style="vertical-align:middle;"/>
+    &nbsp;Website
+  </a>
+  <a href="https://twitter.com/VAIOT_LTD" style="display: inline-block; margin-right: 20px;">
+    <img width="36" src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" style="vertical-align:middle;"/>
+  &nbsp;Twitter
+  </a>
+  <a href="https://t.me/VAIOT_Community" style="display: inline-block; margin-right: 20px;">
+    <img width="36" src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram" style="vertical-align:middle;"/>
+  &nbsp;Telegram
+  </a>
+  <a href="https://www.youtube.com/channel/UCPGVxOCWjYAj_PNIVdXBVzA" style="display: inline-block; margin-right: 20px;">
+    <img width="36" src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" style="vertical-align:middle;"/>
+    &nbsp;YouTube
+  </a>
+</p>
+</br>
 
 ### Contributing
 
