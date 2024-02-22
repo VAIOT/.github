@@ -25,13 +25,13 @@ VAIOT combines artificial intelligence and blockchain technology to revolutioniz
     <img width="36" src="assets/website.svg" alt="Website" style="vertical-align: middle;"/>
   </a>
   <a href="https://twitter.com/VAIOT_LTD" style="text-decoration: none; display: inline-block; margin-right: 40px; vertical-align: middle;">
-    <img width="36" src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" style="vertical-align: middle;"/>
+    <img width="36" src="assets/twitter.svg" alt="Twitter" style="vertical-align: middle;"/>
   </a>
   <a href="https://t.me/VAIOT_Community" style="text-decoration: none; display: inline-block; margin-right: 40px; vertical-align: middle;">
-    <img width="36" src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram" style="vertical-align: middle;"/>
+    <img width="36" src="assets/telegram.svg" alt="Telegram" style="vertical-align: middle;"/>
   </a>
   <a href="https://www.youtube.com/channel/UCPGVxOCWjYAj_PNIVdXBVzA" >
-    <img width="36" src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" style="vertical-align: middle;"/>
+    <img width="36" src="assets/youtube.svg" alt="YouTube" style="vertical-align: middle;"/>
   </a>
 </p>
 
