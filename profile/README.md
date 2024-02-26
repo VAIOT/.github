@@ -1,6 +1,6 @@
 <br/>
 <div align="center">
-    <img src="assets/vaiotlogo.svg" alt="VAIOT Logo" width="400"/>
+    <img src="https://raw.githubusercontent.com/VAIOT/.github/master/profile/assets/vaiotlogo.svg" alt="VAIOT Logo" width="400"/>
 </div>
 </br>
 </br>
