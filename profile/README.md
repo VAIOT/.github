@@ -1,6 +1,6 @@
 <br/>
 <div align="center">
-    <img src="../assets/vaiotLogo.svg" alt="VAIOT Logo" width="400"/>
+    <img src="assets/vaiotlogo.svg" alt="VAIOT Logo" width="400"/>
 </div>
 </br>
 </br>
