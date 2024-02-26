@@ -17,13 +17,6 @@ VAIOT combines artificial intelligence and blockchain technology to revolutioniz
 
 [./payback-contract](https://github.com/VAIOT/payback-contract) Discover our innovative payback system that rewards platform users.
 
-### Connect With Us
-
-<a href="https://vaiot.ai/en"><img width="36" src="../assets/website.svg" alt="Website"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/VAIOT_LTD"><img width="36" src="../assets/twitter.svg" alt="Twitter"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://t.me/VAIOT_Community"><img width="36" src="../assets/telegram.svg" alt="Telegram"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.youtube.com/channel/UCPGVxOCWjYAj_PNIVdXBVzA"><img width="36" src="../assets/youtube.svg" alt="YouTube"/></a>
-
 ### Contributing
 
 We welcome contributions from the community! If you're interested in helping us build and improve VAIOT, please take a look at our contributing guidelines in each repository or contact us directly.
